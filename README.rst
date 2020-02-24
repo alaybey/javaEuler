@@ -7,7 +7,7 @@ Class names are encoded with alphabet and compared to problem numbers
 
 ::
 
-   ProblemA == Problem 1
-   Problem CG == Problem 36
+   ProblemA.java == Problem 1
+   ProblemCG.java == Problem 36
 
 I'll add solutions to this repo 
