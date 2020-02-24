@@ -1,7 +1,7 @@
 Solutions of problems on ProjectEuler
 -------------------------------------
 
-i'm gonna solve in ProjectEuler problems https://projecteuler.net
+i'm gonna solve in ProjectEuler problems with JAVA
 
 Class names are encoded with alphabet and compared to problem numbers
 
